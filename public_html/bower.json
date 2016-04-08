@@ -1,0 +1,23 @@
+{
+  "name": "syngenta-unificado",
+  "version": "0.0.0",
+  "authors": [
+    "wvtodoz"
+  ],
+  "description": "Site da syngenta",
+  "main": "index,php",
+  "keywords": [
+    "wvtodoz08"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
